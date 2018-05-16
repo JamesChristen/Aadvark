@@ -42,7 +42,6 @@
   <ItemGroup>
     <Compile Include="DataGathering\Enums\DataSource.cs" />
     <Compile Include="DataGathering\Interfaces\IDataItem.cs" />
-    <Compile Include="DataGathering\Interfaces\IPerception.cs" />
     <Compile Include="DataGathering\Interfaces\IUser.cs" />
     <Compile Include="Extensions\EnumerableExtensions.cs" />
     <Compile Include="Extensions\EnumExtensions.cs" />

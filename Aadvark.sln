@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataGathering", "DataGather
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGathering", "DataGathering\DataGathering.csproj", "{D05954BA-33F4-49E8-B43A-86D2C914E172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C6196DCF-C693-4A2A-B5C1-249B367B7CE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{D05954BA-33F4-49E8-B43A-86D2C914E172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D05954BA-33F4-49E8-B43A-86D2C914E172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D05954BA-33F4-49E8-B43A-86D2C914E172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6196DCF-C693-4A2A-B5C1-249B367B7CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6196DCF-C693-4A2A-B5C1-249B367B7CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6196DCF-C693-4A2A-B5C1-249B367B7CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6196DCF-C693-4A2A-B5C1-249B367B7CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

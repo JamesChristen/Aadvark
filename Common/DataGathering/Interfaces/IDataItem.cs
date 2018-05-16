@@ -7,6 +7,5 @@ namespace Common.DataGathering.Interfaces
 		DataSource DataSource { get; set; }
 		IUser User { get; set; }
 		string Content { get; set; }
-		IPerception Perception { get; set; }
 	}
 }
